@@ -305,7 +305,7 @@ figure {
   margin: 0 0 1rem;
 }
 
-img,
+,
 svg {
   vertical-align: middle;
 }
@@ -607,12 +607,12 @@ progress {
   content: "— ";
 }
 
-.img-fluid {
+.-fluid {
   max-width: 100%;
   height: auto;
 }
 
-.img-thumbnail {
+.-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
   border: 1px solid #dee2e6;
@@ -625,7 +625,7 @@ progress {
   display: inline-block;
 }
 
-.figure-img {
+.figure- {
   margin-bottom: 0.5rem;
   line-height: 1;
 }
@@ -4178,7 +4178,7 @@ textarea.form-control-lg {
   height: 3.7rem;
   width: 3rem !important;
   
-  background: url("../assets/img/fechteri-logo-scaled.png");
+  background: url("../img/logo-scaled.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -4197,7 +4197,7 @@ textarea.form-control-lg {
   height: 3.5rem;
   width: 3.5rem !important;
   
-  background: url("../assets/img/paridon-logo.png");
+  background: url("../img/JKlogo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -4209,7 +4209,7 @@ textarea.form-control-lg {
 
   opacity: 1;
 
-  background: url("../assets/img/fechteri-logo-scaled.png");
+  background: url("../img/logo-scaled.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -4221,7 +4221,7 @@ textarea.form-control-lg {
 
   opacity: 1 !important;
   
-  background: url("../assets/img/paridon-logo.png");
+  background: url("../img/JKlogo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -4462,7 +4462,7 @@ textarea.form-control-lg {
     height: 3.7rem;
     width: 3.7rem;
     
-    background: url("../assets/img/fechteri-logo-bw.png");
+    background: url("../img/JKlogo-bw.png");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -4481,7 +4481,7 @@ textarea.form-control-lg {
     height: 3.5rem;
     width: 3.5rem;
     
-    background: url("../assets/img/paridon-logo.png");
+    background: url("../img/JKlogo.png");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -11648,7 +11648,7 @@ body {
   
     opacity: 0.9;
     
-    background: url("../assets/img/paridon-logo.png");
+    background: url("../img/JKlogo.png");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -11688,7 +11688,7 @@ body {
   height: 100vh;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.4) 75%, #000 100%), url("../assets/img/bg-masthead-2.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.4) 75%, #000 100%), url("../img/bg-masthead-2.png");
   background-position: left;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11770,7 +11770,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/bg-signup.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../img/bg-signup.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11834,7 +11834,7 @@ body {
 
 .about-bg {
   min-height: 90vh;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.5) 50%, #000 100%), url("../assets/img/rukavice.png");
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.5) 50%, #000 100%), url("../img/test.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11858,7 +11858,7 @@ body {
 
 .contact-section {
   min-height: 90vh;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.6) 75%, #000 100%), url("../assets/img/kontakt.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.6) 75%, #000 100%), url("../img/kontakt.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
