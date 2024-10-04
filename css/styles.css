@@ -11692,7 +11692,7 @@ body {
   background-position: left;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-size: cover;
+  background-size: contain;
 }
 .masthead h1, .masthead .h1 {
   font-family: 'Cinzel', serif;
